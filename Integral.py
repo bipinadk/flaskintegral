@@ -35,4 +35,4 @@ def fof(ok):
 
 if __name__ == "__main__":
     print("now starting to RUN")
-    app.run(debug=True, host="0.0.0.0", port = 80)
+    app.run(debug=True)
